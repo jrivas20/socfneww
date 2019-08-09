@@ -364,7 +364,7 @@ section
 	left: 0;
 	width: 100%;
 	border-bottom: solid 1px #FFFFFF;
-	background: #a7cc49;
+	background: white;
 	z-index: 100;
 }
 .header_content
@@ -404,7 +404,7 @@ section
 {
 	font-size: 16px;
 	font-weight: 300;
-	color: #fff;
+	color: #051646;
 }
 .main_nav ul li.active a,
 .main_nav ul li a:hover
